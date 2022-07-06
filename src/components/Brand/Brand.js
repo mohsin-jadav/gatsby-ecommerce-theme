@@ -10,7 +10,7 @@ const Brand = (props) => {
       role={'presentation'}
       onClick={() => navigate('/')}
     >
-      {/* <h4>Suhani Fashion</h4> */}
+     <h4>Suhani Fashion</h4>
     
     </div>
   );
