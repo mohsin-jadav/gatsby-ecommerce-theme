@@ -8,7 +8,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Gatsby Sydney Ecommerce Theme`,
-        short_name: `Suhani Fashion`,
+        short_name: `Suhani Fashion1`,
         start_url: `/`,
         background_color: `#000000`,
         theme_color: `#ffffff`,
